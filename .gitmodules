@@ -1,0 +1,7 @@
+[submodule "cp-demo"]
+	path = cp-demo
+	url = https://github.com/jeremykuhnash/cp-demo.git
+	branch = 5.5.1-post
+[submodule "kafka-docker-playground"]
+	path = kafka-docker-playground
+	url = https://github.com/jeremykuhnash/kafka-docker-playground.git
